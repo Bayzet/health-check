@@ -4,7 +4,7 @@
     "type": "symfony-bundle",
     "license": "proprietary",
     "require": {
-        "php": "7.4",
+        "php": "^7.4",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "symfony/flex": "*",
