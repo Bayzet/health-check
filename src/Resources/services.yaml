@@ -1,0 +1,4 @@
+health_check:
+  senders:
+    - '@sender.service1'
+    - '@sender.service2'

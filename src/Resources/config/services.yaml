@@ -1,0 +1,3 @@
+services:
+  bayzet\HealthCheckBundle\Controller\HealthController:
+    autoconfigure: true
