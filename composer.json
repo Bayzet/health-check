@@ -1,5 +1,5 @@
 {
-    "name": "bayzet/health-check-bundle",
+    "name": "bayzet/health-check",
     "description": "Health check bundle",
     "type": "symfony-bundle",
     "license": "proprietary",
